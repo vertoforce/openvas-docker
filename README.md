@@ -1,3 +1,28 @@
+# Modified to be a somple openvas deployment
+
+
+## Local deployment
+
+```
+docker-compose up
+```
+
+Connect then at
+
+https://localhost
+
+Log in with
+```
+admin
+admin
+```
+
+
+
+
+
+# Old README
+
 OpenVAS image for Docker
 ==============
 
