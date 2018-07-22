@@ -1,4 +1,4 @@
-# Modified to be a somple openvas deployment
+# Modified to be a simple openvas deployment
 
 
 ## Local deployment
